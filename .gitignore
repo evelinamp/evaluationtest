@@ -1,2 +1,4 @@
 target/
 .idea/
+src/main/java/com/evaluation/test/App.java
+src/test/java/com/evaluation/test/AppTest.java
